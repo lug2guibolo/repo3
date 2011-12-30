@@ -1,0 +1,8 @@
+sda**sas**a
+====== sdfasfasf ======
+
+
+for new page put "[[...]] "
+
+
+[[:newpage|NewPage]]
