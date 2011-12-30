@@ -5,4 +5,7 @@ sda**sas**a
 for new page put "[[...]] "
 
 
-[[:newpage|NewPage]]
+[[:newpage|NewPage]] 
+
+
+new text
